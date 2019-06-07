@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\gvr\documents\zlonkevich_maksym\oop\lab_5\lab_5\account.hpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\gvr\documents\zlonkevich_maksym\oop\lab_5\lab_5\account.hpp(39): warning C4018: '<': signed/unsigned mismatch
+  _strategy_accounts.vcxproj -> C:\Users\GVR\Documents\07_06_2019\Project1\Debug\strategy_accounts.exe
+  _strategy_accounts.vcxproj -> C:\Users\GVR\Documents\07_06_2019\Project1\Debug\strategy_accounts.pdb (Partial PDB)
